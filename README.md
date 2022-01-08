@@ -1,2 +1,5 @@
 # Cacth-the-button
-Vežba C# programskog jezika
+Vežba C# programskog jezika...
+
+
+double click to Assig5 folder, double click to bin folder, double click to Release folder and double click to Assig5 file to open app...
